@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '弥弥子的小站',
+  name: '弥酱~',
   domain: 'https://micho.vercel.app',
   author: 'micho',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '弥酱小蘸',
+  socialImageTitle: '弥弥子',
+  socialImageSubtitle: '弥弥子',
 
   // social usernames (optional)
   twitter: '',
